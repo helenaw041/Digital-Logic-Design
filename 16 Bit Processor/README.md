@@ -1,1 +1,1 @@
-Implemented core combinational logic (instruction decoder, ALU, branch procesor) of 16-bit processor in iVerilog as well as sequential components (REG and PC). Will be porting to FPGA board. 
+Implemented core combinational logic (instruction decoder, ALU, branch procesor) of 16-bit single-cycle MIPS processor in iVerilog as well as sequential components (REG and PC). Will be porting to FPGA board. 
